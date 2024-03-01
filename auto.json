@@ -1,0 +1,19 @@
+[
+    {
+        "equipo": "nexiez mrl",
+        "instalacion": 2022,
+        "serie": 501212
+        },
+        {
+            "equipo":"nexiez latino",
+            "instalacion": 2023,
+            "serie" :501213
+        },
+        {
+            "equipo":"elenessa",
+            "instalacion": 2021,
+            "serie" :501210
+        }
+
+
+]
